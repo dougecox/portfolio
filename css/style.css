@@ -63,4 +63,8 @@
     height: 700px; 
     margin-top:8%;
   }
+  img.resize {
+    width:28px;
+    height:28px;
+  }
   <!-Dont forget to add Bootsrap from CSS settings!!! --> 
