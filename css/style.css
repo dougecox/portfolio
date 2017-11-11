@@ -67,4 +67,8 @@
     width:28px;
     height:28px;
   }
+  .img-responsive {
+    max-width:100%;
+    height:auto;
+  }
   <!-Dont forget to add Bootsrap from CSS settings!!! --> 
