@@ -1,1 +1,1 @@
-dougecox.github.com/dougecox/portfolio.github.io
+portfolio.github.comportfolio.github.io
